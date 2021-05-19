@@ -1,3 +1,7 @@
-Topic-specific corpus building: The creation of a representative newspaper corpus on the topic of return migration using LDA and JSD
+# Topic-specific corpus building: The creation of a representative newspaper corpus on the topic of return migration using LDA and JSD
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jdh-observer/jdh001-4yxHGiqXYRbX/main?filepath=TopicSpecificCorpusBuilding.ipynb)
+
+## Abstract
+
+Humanities researchers often encounter the problem that their specialized corpora, created by keyword searches, either contain documents that are irrelevant for their research questions because the search queries were too broad, or they miss relevant documents because the search requests were too narrow. The reason for this lies in the complexity of language, which is characterized by ambiguity and concepts that are difficult, if not impossible, to trace by computational methods and thus keyword searches alone. This paper shows how text mining methods can support the building of a topic-specific corpus. Using the example of return migration issues, the aim is, on the one hand, to build a corpus that is as representative as possible and, on the other hand, to overcome the bias that comes with complex keyword searches that are influenced by the researcher's prior knowledge. The paper begins with a discussion of the motivations for and the challenges of building research driven corpora, leads through the steps that were taken to obtain a satisfactory corpus that can be analyzed further and gives an outlook on how the created corpus was used to conduct a qualitative, discourse-driven analysis on return migration from the Americas to Europe between 1850 and 1950.
